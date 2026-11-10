@@ -1,0 +1,3 @@
+Algorithm,Accuracy (%),Precision (%),Recall (%),F1-score (%)
+Decision Tree,68.65,70.96,57.28,63.39
+Logistic Regression,69.32,71.17,59.26,64.67
